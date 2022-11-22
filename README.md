@@ -7,4 +7,4 @@ Eduardo Gomes Barbosa
 
 ![image](https://user-images.githubusercontent.com/84384908/203303682-928eab7f-dd30-4575-a374-f0b0a21f98cb.png)
 
-Como pode ver a imagem, se trata de uma das bandas favoritas de Eduardo Gomes Barbosa, e nesse repositório será prototizadp um site de Megadeth! 
+Como pode ver a imagem, se trata de uma das bandas favoritas de Eduardo Gomes Barbosa, e nesse repositório será prototizado um site de Megadeth! 
