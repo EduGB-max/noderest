@@ -11,4 +11,4 @@ Como pode ver a imagem, se trata de uma das bandas favoritas de Eduardo Gomes Ba
 
 Rock é com o grande, na minha conta tudos sites livres devem ter algo em torno desse tema
 
-![GitHub](https://img.shields.io/github/gist/stars/EduGB-max?style=flat-square)
+![GitHub](https://img.shields.io/github/stars/EduGB-max?style=flat-square)
