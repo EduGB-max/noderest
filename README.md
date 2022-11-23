@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/EduGB-max/noderest?style=for-the-badge)
 
+![GitHub](https://img.shields.io/github/gist/stars/EduGB-max/noderest?style=flat-square)
+
 # NODE REST API
 Tuturial de configuração de uma API REST com o uso da plataforma NODE
 ## Autor
