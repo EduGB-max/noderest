@@ -1,7 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/EduGB-max/noderest?style=for-the-badge)
 
-![GitHub](https://img.shields.io/github/gist/stars/EduGB-max/noderest?style=flat-square)
-
 # NODE REST API
 Tuturial de configuração de uma API REST com o uso da plataforma NODE
 ## Autor
@@ -12,3 +10,5 @@ Eduardo Gomes Barbosa
 Como pode ver a imagem, se trata de uma das bandas favoritas de Eduardo Gomes Barbosa, e nesse repositório será prototizado um site de Megadeth! 
 
 Rock é com o grande, na minha conta tudos sites livres devem ter algo em torno desse tema
+
+![GitHub](https://img.shields.io/github/gist/stars/EduGB-max/noderest?style=flat-square)
